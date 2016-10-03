@@ -1,0 +1,15 @@
+- estudiar interfaces
+- estudiar patrones
+- NPM
+- repasar herencia y demás...
+- entender el patrón de exports (require es lo que se me escapa: punto --> Detaching from the global scope). CommonJS, RequireJS. Se describen varios patrones
+- AMD, Asynchronous Module Definition
+- El día que Teresa se vaya --> javascript working with modules tutorial
+
+There are two popular, well-defined approaches to such modules. One is called CommonJS Modules and revolves around a require function that fetches a module by name and returns its interface. The other is called AMD and uses a define function that takes an array of module names and a function and, after loading the modules, runs the function with their interfaces as arguments.
+
+
+VOCABULARY: quirk, fuzzy, clutter, reinforce, rein, unwieldy, subtle, insight, foresight, sidetrack, thus, though,
+
+
+
